@@ -1,0 +1,1 @@
+print("bobo iz DUMB")
